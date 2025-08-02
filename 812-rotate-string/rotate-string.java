@@ -6,5 +6,5 @@ class Solution {
         return (s+s).contains(goal);
     }
 }
-//tc - O(1)
-//sc - O(1)
+//tc - O(n)
+//sc - O(n)
